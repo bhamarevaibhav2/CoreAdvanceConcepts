@@ -2,6 +2,23 @@ package com.mgshome.java8;
 
 public class Mymainclass {
 
+    public void doSometing(){
+
+        //lambda expression
+        Employee employee = (name) -> {
+            return "Dipak ";
+        };
+
+        //anonymous class
+        Employee employee1 = new Employee() {
+
+            @Override
+            public String getName(String name) {
+                return "Dinesh ";
+            }
+        };
+    }
+
     public static void main(String[] args) {
 
         //use of lambda expression in thread creation
@@ -22,7 +39,7 @@ public class Mymainclass {
         employee.getSalary(); //default method allows from java 8
         Employee.getBite(); // static method allows from java8
 
-        System.out.println("-------------------Anonymous class------------------");
+        System.out.println("-------------------Anonymous class ------------------");
         Employee employee1 = new Employee() {
             @Override
             public String getName(String NextName) {

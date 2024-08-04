@@ -16,8 +16,8 @@ public class Mymainclass {
         students.add(new Student(11, "Ram"));
         students.add(new Student(20, "Amol"));
 
-        // Collections.sort(students); //comparable
-        Collections.sort(students, new Byname()); //comparator
+         Collections.sort(students); //comparable
+        //Collections.sort(students, new Byname()); //comparator
 
         for (Student student : students) {
             System.out.println(student);
