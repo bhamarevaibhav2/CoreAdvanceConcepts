@@ -1,5 +1,6 @@
 package com.mgshome.designPatterns;
 
+//Singleton design pattern
 public class Principal {
 
     private static Principal principal; //by default null

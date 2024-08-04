@@ -1,5 +1,6 @@
 package com.mgshome.designPatterns;
 
+//Singleton design pattern
 public class Ghanta {
 
     //egger way to object initialization
