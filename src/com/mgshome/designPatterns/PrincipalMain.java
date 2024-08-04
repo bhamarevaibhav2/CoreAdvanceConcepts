@@ -10,5 +10,8 @@ public class PrincipalMain {
         //same object will be return because method will call all time but in method there is condition
         Principal principal2 = Principal.getPrincipal();
         System.out.println(principal2.hashCode()); //460141958
+
+        System.out.println(Ghanta.getGhanta().hashCode());
+        System.out.println(Ghanta.getGhanta().hashCode());
     }
 }
