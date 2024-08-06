@@ -1,4 +1,4 @@
-package com.mgshome.designPatterns;
+package com.mgshome.designPatterns.Factory;
 
 //factory design pattern
 public class DeveloperMain {

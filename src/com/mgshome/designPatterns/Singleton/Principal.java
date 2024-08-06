@@ -1,4 +1,4 @@
-package com.mgshome.designPatterns;
+package com.mgshome.designPatterns.Singleton;
 
 //Singleton design pattern
 public class Principal {
