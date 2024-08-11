@@ -1,4 +1,4 @@
-package com.mgshome.java8;
+package com.mgshome.java8.FunctionalInterface;
 
 public interface Student {
 

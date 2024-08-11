@@ -1,4 +1,6 @@
-package com.mgshome.java8;
+package com.mgshome.java8.StreamApi;
+
+import com.mgshome.java8.lambdaExpression.Methodinter;
 
 import java.util.ArrayList;
 import java.util.Arrays;

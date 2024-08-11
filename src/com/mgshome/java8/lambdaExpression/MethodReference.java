@@ -1,4 +1,6 @@
-package com.mgshome.java8;
+package com.mgshome.java8.lambdaExpression;
+
+import com.mgshome.java8.FunctionalInterface.Features;
 
 public class MethodReference {
 	

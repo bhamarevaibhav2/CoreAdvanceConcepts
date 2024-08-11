@@ -1,8 +1,7 @@
-package com.mgshome.java8;
+package com.mgshome.java8.StreamApi;
 
 import java.util.*;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 //java 1.8
 public class Streamapis {

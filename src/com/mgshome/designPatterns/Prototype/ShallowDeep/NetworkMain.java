@@ -13,7 +13,7 @@ public class NetworkMain {
         /*
         Here is the difference between shallow copy and deep copy:
          * shallow is normal copy of object
-         * means we want copy of object 
+         * means we want copy of object
          * Network data = new Network();
          * NetworkData data2 = (NetworkData) data.clone();
          * Its no issue for normal object copy but in object one object like List that time only copy the reference of

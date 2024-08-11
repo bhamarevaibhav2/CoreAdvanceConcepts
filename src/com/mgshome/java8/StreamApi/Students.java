@@ -1,4 +1,4 @@
-package com.mgshome.java8;
+package com.mgshome.java8.StreamApi;
 
 public class Students {
 

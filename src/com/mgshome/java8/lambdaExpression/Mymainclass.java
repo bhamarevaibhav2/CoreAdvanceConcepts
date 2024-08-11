@@ -1,4 +1,7 @@
-package com.mgshome.java8;
+package com.mgshome.java8.lambdaExpression;
+
+import com.mgshome.java8.FunctionalInterface.Employee;
+import com.mgshome.java8.FunctionalInterface.Student;
 
 public class Mymainclass {
 

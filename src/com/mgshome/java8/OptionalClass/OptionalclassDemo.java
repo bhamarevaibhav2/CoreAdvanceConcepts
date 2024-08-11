@@ -1,4 +1,4 @@
-package com.mgshome.java8;
+package com.mgshome.java8.OptionalClass;
 
 import java.util.Optional;
 

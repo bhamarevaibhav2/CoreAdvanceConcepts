@@ -1,4 +1,4 @@
-package com.mgshome.java8;
+package com.mgshome.java8.StreamApi;
 
 import java.util.ArrayList;
 import java.util.HashSet;

@@ -8,6 +8,7 @@ public class Ghanta {
     private static Ghanta ghanta =  new Ghanta();
 
     public static Ghanta getGhanta() {
+
         return ghanta;
     }
 }
